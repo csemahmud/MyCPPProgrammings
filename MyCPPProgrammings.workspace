@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="CPPInheritanceAcc1App/CPPInheritanceAcc1App.cbp" />
+		<Project filename="CPPAbstractAcc1App/CPPAbstractAcc1App.cbp" />
+		<Project filename="CPPAssociation1App/CPPAssociation1App.cbp" />
+		<Project filename="CPPDecoratorTestApp1/CPPDecoratorTestApp1.cbp" />
+		<Project filename="CPPMultipleInheritance/CPPMultipleInheritance.cbp" />
+		<Project filename="CPPCallByReference1App/CPPCallByReference1App.cbp" />
+		<Project filename="CPPCmpOperatorApp1/CPPCmpOperatorApp1.cbp" />
+		<Project filename="CPPInfiniteLoop1/CPPInfiniteLoop1.cbp" />
+		<Project filename="Odd_Fibonacci_Primes/Odd_Fibonacci_Primes.cbp" />
+		<Project filename="Prime_Square/Prime_Square.cbp" />
+		<Project filename="Best_3_CT_Marks/Best_3_CT_Marks.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
